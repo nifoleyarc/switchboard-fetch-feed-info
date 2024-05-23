@@ -19,8 +19,8 @@ This project is a Node.js application that interacts with the Switchboard Oracle
    git clone https://github.com/yourusername/switchboard-feeds-info-fetcher.git
    cd switchboard-feeds-info-fetcher
 2. Install the dependencies:
-  ```bash
-  npm install
+   ```bash
+   npm install
 
 ## Usage
 
@@ -28,8 +28,9 @@ This project is a Node.js application that interacts with the Switchboard Oracle
 
 2. Run the script:
 
-  ```bash
-  node index.js
+   ```bash
+   node index.js
+
 3. The script will fetch the feed information, sort them by lease balance, and display the results in a table.
 
 ## Example Output
